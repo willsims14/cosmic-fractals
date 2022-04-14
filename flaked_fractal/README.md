@@ -1,3 +1,3 @@
 # Flaked Fractal
 
-> ![flaked-fractal](flaked_fractal.png)
+> ![flaked-fractal](flake.png)
